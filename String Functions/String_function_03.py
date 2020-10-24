@@ -3,6 +3,8 @@ Created on Jul 15, 2014
 
 @author: HOME
 The script is to see the function of s.split(t,n) method.
+and join()
+
 '''
 str1="hello how are you, i am fine here ,are you coming, else good bye"
 str2="hello, how, are, you"

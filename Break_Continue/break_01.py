@@ -9,7 +9,7 @@ print("Start of part A...")
 for n in range(99,0,-1):
     root=sqrt(n)
     if root==int(root):
-        print("Root is : ",n)
+        print("Root of {0} is {1} ".format(n,root))
         break
 print("End of part A...")
 for n in range(99,81,-1):

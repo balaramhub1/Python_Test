@@ -3,6 +3,8 @@ Created on Jul 17, 2014
 
 @author: HOME
 '''
+import String_01
+
 str1="hello how are you"
 num1=123.456
 print("{0:25}".format(str1)) # minimum width of 25 .

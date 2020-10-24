@@ -21,3 +21,7 @@ lsta.pop(3) # removed 'jana', the element with index value of 3, slice syntax no
 print(lsta)
 del lsta[2:4] # remove/delete elements by index, with slice syntax also
 print(lsta)
+
+# delete the list
+del lsta
+print(lsta)
